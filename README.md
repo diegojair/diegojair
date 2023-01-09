@@ -1,1 +1,1 @@
-# propusal
+# proposal
